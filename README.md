@@ -1,1 +1,3 @@
 # pensamentocomputacional
+
+maick gabriel ribeiro
